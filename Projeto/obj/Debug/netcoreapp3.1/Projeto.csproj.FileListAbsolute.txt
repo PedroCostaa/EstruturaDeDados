@@ -1,0 +1,13 @@
+D:\UVV\Ciencas da Computacao\Quarto Periodo\Estrurura de Dados\Projeto\bin\Debug\netcoreapp3.1\Projeto.exe
+D:\UVV\Ciencas da Computacao\Quarto Periodo\Estrurura de Dados\Projeto\bin\Debug\netcoreapp3.1\Projeto.deps.json
+D:\UVV\Ciencas da Computacao\Quarto Periodo\Estrurura de Dados\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.json
+D:\UVV\Ciencas da Computacao\Quarto Periodo\Estrurura de Dados\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.dev.json
+D:\UVV\Ciencas da Computacao\Quarto Periodo\Estrurura de Dados\Projeto\bin\Debug\netcoreapp3.1\Projeto.dll
+D:\UVV\Ciencas da Computacao\Quarto Periodo\Estrurura de Dados\Projeto\bin\Debug\netcoreapp3.1\Projeto.pdb
+D:\UVV\Ciencas da Computacao\Quarto Periodo\Estrurura de Dados\Projeto\obj\Debug\netcoreapp3.1\Projeto.csprojAssemblyReference.cache
+D:\UVV\Ciencas da Computacao\Quarto Periodo\Estrurura de Dados\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfoInputs.cache
+D:\UVV\Ciencas da Computacao\Quarto Periodo\Estrurura de Dados\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfo.cs
+D:\UVV\Ciencas da Computacao\Quarto Periodo\Estrurura de Dados\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CoreCompileInputs.cache
+D:\UVV\Ciencas da Computacao\Quarto Periodo\Estrurura de Dados\Projeto\obj\Debug\netcoreapp3.1\Projeto.dll
+D:\UVV\Ciencas da Computacao\Quarto Periodo\Estrurura de Dados\Projeto\obj\Debug\netcoreapp3.1\Projeto.pdb
+D:\UVV\Ciencas da Computacao\Quarto Periodo\Estrurura de Dados\Projeto\obj\Debug\netcoreapp3.1\Projeto.genruntimeconfig.cache
